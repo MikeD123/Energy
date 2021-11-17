@@ -15,8 +15,5 @@ This allows (don't like the bs buzz word quantum) "Twist Computing" where comput
 
 To explain these unified energy signatures, "The Twist" is a moment in space/time for a quantum leap across space/time. To evaluate this I've put it into slides like an ELI5 for anybody to understand. It's very basic, and provides the necessary proofs for prime number frameworks visually to speak to the points made (number behaviours operating visually the same as typical thermodynamics).
 
-*Quantum Equilibrium & **Unified Energy Signatures
 
-Thermal equilibrium between Numbers, Thermodynamics, Cryptography.
-
-“The Twist”
+* The Twist (noun) - Quantum Equilibrium & Unified Energy Signatures - Thermal equilibrium between Numbers, Thermodynamics, Cryptography.
