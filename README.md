@@ -28,4 +28,4 @@ High level around fibre optic cables and their attenuation of signal, and how we
 This is a microscopic quantum moment in space/time which if observed, changes the trajectory of all things into the future. Like bending spacetime, but instead we twist it. Twist implies bending both sides of spacetime (the observer, and the destination).
 
 ### Bitcoin Scaling
-An open design and reference implementation for solivng the block reward problem.
+An open design and reference implementation for solving the block reward problem. (edit: solving)
