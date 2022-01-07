@@ -24,6 +24,9 @@ This is a time format used to ensure the heaviest proof of work system is always
 ### Quantum Message
 The message to be received by civilization 100+ years from now. Encoding formulas for prime numbers and other components. It's unvalidated today, but my hope is that it is validated by people in the future, who can then help expedite it to be validated in this day.
 
+### Quantum Entanglement
+This is an example of entangling particles within a proof of work system between two reference points in Space/Time. It is built on the Bitcoin blockchain. The goal being to have the first functioning proof of special relativity, and an established Einstein-Rosen Bridge.
+
 ### Time Travel
 High level around fibre optic cables and their attenuation of signal, and how we can use the Bitcoin blockchain for zero attentuation signal transfer (think fibre optics, but through time, instead of across countries).
 
