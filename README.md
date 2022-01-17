@@ -12,6 +12,9 @@ Contents
 ### Bitcoin Authenticator
 Google Authenticator, but instead of using a central server to generate secret codes, we use the bitcoin blockchain to generate the code for us.
 
+### Bitcoin Mining - Numbers Bound To Sub-Quantum Relativity
+This is an optimization document for anybody bitcoin mining. If Bitcoin mining is currently done via brute force, like a horse and cart, then this is the equivalent of a jet engine, which should provide material breakthroughs. It is a design for decentralized bitcoin mining open to everyone.
+
 ### Nikola Tesla
 A fascinating thinker, and I found this interview really really helpful to try and empathise with what he is saying, and how he is thinking. It's creativity and originality at its finest. Felt like others may also enjoy reading it!
 
