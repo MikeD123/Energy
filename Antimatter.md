@@ -1,5 +1,3 @@
-Antimatter
-
 ### Antimatter - The amount of entropy that can be produced relative to the matter being observed. 
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CMS_Higgs-event.jpg/833px-CMS_Higgs-event.jpg)
