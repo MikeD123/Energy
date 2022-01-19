@@ -9,6 +9,9 @@ All matter behaves the same, because representations of matter mean they are bou
 Contents
 -----
 
+### Antimatter
+High level over view of what it is. Essentially it's all the possibilities for entropy based on the smallest piece of information. Higgs Boson, for example. Observing that produces more entropy.
+
 ### Bitcoin Authenticator
 Google Authenticator, but instead of using a central server to generate secret codes, we use the bitcoin blockchain to generate the code for us.
 
