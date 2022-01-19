@@ -1,4 +1,4 @@
-### Antimatter - The amount of entropy that can be produced relative to the matter being observed. 
+## Antimatter - The amount of entropy that can be produced relative to the matter being observed. 
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/CMS_Higgs-event.jpg/833px-CMS_Higgs-event.jpg)
 
@@ -11,5 +11,16 @@ Nikola Tesla called this the “ether” and stated that without light there is 
 This is antimatter. It’s the maximum region for potential entropy, relative to a single particle. Like, ELI5 it’s the maximum number of multiverses that a single point in time can have, and all the possible moments in other multiverses, occurring within this region. 
 
 I would consider antimatter and dark matter to be the same thing. A zero point energy.
+
+In analogies from movies:
+
+### Inception / Spinning Top
+![inception](https://dazedimg-dazedgroup.netdna-ssl.com/2000/azure/dazed-prod/1120/2/1122563.jpg)
+Inception is putting a thought into some situation. With that thought having additional effects in a different layer of consciousness. That tiny thought is the "matter" and the antimatter would be the effects that had an all additional layers.
+
+### Doctor Strange / Multiverse
+![doctorstrange](https://terrigen-cdn-dev.marvel.com/content/prod/1x/009drs_ons_inl_02_0.jpg)
+
+The different multiverses are different paths taken, but all started from the same moment in time.
 
 ** Edit - I just came back to write that this is in this repo and is labelled as "The Twist", I had written about it in a different context, but these two are in principle the same thing explained in a different way!
