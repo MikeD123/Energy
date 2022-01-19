@@ -13,3 +13,5 @@ Nikola Tesla called this the “ether” and stated that without light there is 
 This is antimatter. It’s the maximum region for potential entropy, relative to a single particle. Like, ELI5 it’s the maximum number of multiverses that a single point in time can have, and all the possible moments in other multiverses, occurring within this region. 
 
 I would consider antimatter and dark matter to be the same thing. A zero point energy.
+
+** Edit - I just came back to write that this is in this repo and is labelled as "The Twist", I had written about it in a different context, but these two are in principle the same thing explained in a different way!
