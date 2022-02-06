@@ -12,6 +12,9 @@ Contents
 ### Antimatter
 High level over view of what it is. Essentially it's all the possibilities for entropy based on the smallest piece of information. Higgs Boson, for example. Observing that produces more entropy.
 
+### Bitcoin - Perpetual Scaling
+A perpetual scaling solution that does not break the chain rules for immutability, nor does it expect new coin issuance and preserves the protocols monetary policy.
+
 ### Bitcoin Authenticator
 Google Authenticator, but instead of using a central server to generate secret codes, we use the bitcoin blockchain to generate the code for us.
 
@@ -38,6 +41,3 @@ High level around fibre optic cables and their attenuation of signal, and how we
 
 ### The Twist
 This is a microscopic quantum moment in space/time which if observed, changes the trajectory of all things into the future. Like bending spacetime, but instead we twist it. Twist implies bending both sides of spacetime (the observer, and the destination).
-
-### Bitcoin Scaling
-An open design and reference implementation for solving the block reward problem. (edit: solving)
