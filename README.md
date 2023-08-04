@@ -43,4 +43,4 @@ High level around fibre optic cables and their attenuation of signal, and how we
 This is a microscopic quantum moment in space/time which if observed, changes the trajectory of all things into the future. Like bending spacetime, but instead we twist it. Twist implies bending both sides of spacetime (the observer, and the destination).
 
 ### Unconventional Transitivity
-Exploring the relationship between the area of a circle, and Einsteins equation E=MC^2.
+Exploring the relationship between the area of a circle, and Einsteins equation E=MC^2!
