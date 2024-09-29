@@ -35,6 +35,8 @@ The message to be received by civilization 100+ years from now. Encoding formula
 
 ### Quantum Entanglement
 This is an example of entangling particles within a proof of work system between two reference points in Space/Time. It is built on the Bitcoin blockchain. The goal being to have the first functioning proof of special relativity, and an established Einstein-Rosen Bridge.
+### Time Travel - Electron Mapping
+This is more akin to "backward" time travel. Taking the approach of reconstructing a field of electrons/atoms that will be perceived through the "electron onesie" of the observer.
 
 ### Time Travel
 High level around fibre optic cables and their attenuation of signal, and how we can use the Bitcoin blockchain for zero attentuation signal transfer (think fibre optics, but through time, instead of across countries).
