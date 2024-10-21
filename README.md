@@ -46,3 +46,7 @@ This is a microscopic quantum moment in space/time which if observed, changes th
 
 ### Unconventional Transitivity
 Exploring the relationship between the area of a circle, and Einsteins equation E=MC^2!
+
+### Researching Goldbach & RSA
+Finding creative ways to explore the sums of primes, products of primes, and RSA keys!
+
